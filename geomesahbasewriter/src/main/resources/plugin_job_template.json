@@ -1,0 +1,28 @@
+{
+    "name": "geomesahbasewriter",
+    "parameter": {
+        "batchnumber": 1000,
+        "datasetinfos": [
+            {
+                "server": "",
+                "datasourcename": "",
+                "datasetname": "",
+                "datasetbounds": "",
+                "zshard": 4,
+                "geometryname": "geom",
+                "geometrytype": "",
+                "geometrysrid": 4326,
+                "ignoredtg": "false",
+                "splitteroption": "",
+                "fieldshard": 4,
+                "fields": [
+                    {
+                        "fieldname": "",
+                        "fieldtype": "",
+                        "fieldindex": false
+                    }
+                ]
+            }
+        ]
+    }
+}

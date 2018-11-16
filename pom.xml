@@ -62,6 +62,8 @@
         <module>rdbmsreader</module>
         <module>hbase11xreader</module>
         <module>hbase094xreader</module>
+		<module>hbase11xsqlreader</module>
+		<module>sdxreader</module>
 
         <!-- writer -->
         <module>mysqlwriter</module>
@@ -83,8 +85,8 @@
         <module>hbase11xwriter</module>
         <module>hbase094xwriter</module>
         <module>hbase11xsqlwriter</module>
-        <module>hbase11xsqlreader</module>
         <module>elasticsearchwriter</module>
+		<module>geomesahbasewriter</module>
 
         <!-- common support module -->
         <module>plugin-rdbms-util</module>

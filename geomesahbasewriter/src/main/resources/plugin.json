@@ -1,0 +1,6 @@
+{
+    "name": "geomesahbasewriter",
+    "class": "com.alibaba.datax.plugin.writer.geomesahbasewriter.GeoMesaHBaseWriter",
+    "description": "useScene: supermap data migration. mechanism: use datax framework to transport data to GeoMesaHBase. warn: The more you know about the GeoMesaHBase, the less problems you encounter.",
+    "developer": "supermap"
+}

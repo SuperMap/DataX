@@ -1,0 +1,6 @@
+{
+    "name": "sdxreader",
+    "class": "com.alibaba.datax.plugin.reader.sdxreader.SDXReader",
+    "description": "useScene: supermap data migration. mechanism: use datax framework to transport data from supermap datasource. warn: The more you know about the supermap, the less problems you encounter.",
+    "developer": "supermap"
+}

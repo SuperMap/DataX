@@ -1,0 +1,17 @@
+{
+    "name": "sdxreader",
+    "parameter": {
+        "datasetinfos": [
+            {
+                "server": "",
+                "enginetype": 219,
+                "driver": "",
+                "database": "",
+                "username": "",
+                "password": "",
+                "datasetname": "",
+                "fieldnames": ["*"]
+            }
+        ]
+    }
+}
